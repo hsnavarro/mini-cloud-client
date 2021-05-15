@@ -1,0 +1,5 @@
+target/
+debug/
+msvc/
+gnu-mingw/
+.vscode/
